@@ -7,12 +7,13 @@
     --botao-inativo: rgba(58,55,94, 0.5);
     --texto-fundo: rgba(58,55,94, 0.3);
     --rosa:#e36b6b;
+    --preto: black;
     
 }
 
 body{
-    background-color: var(--rosa);
-    color: var(--branco);
+    background-color: var(--branco);
+    color: var(--preto);
     font-family: 'Chakra Petch', sans-serif;
 }
 
