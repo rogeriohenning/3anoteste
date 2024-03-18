@@ -25,8 +25,8 @@ body{
     align-items: center;
     max-width: 1200px;
     width: 100%;
-    margin: 0 120px;
-    }
+    margin: 0 auto;
+}
 
 .titulo-principal {
         text-align: left;
@@ -35,7 +35,7 @@ body{
     }
 
 .titulo-principal span {
-        color: var(--rosa); 
+        color: var(--verde); 
     }
 
 .botao {
