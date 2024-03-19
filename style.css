@@ -78,4 +78,8 @@ body{
         border-radius: 0 40px 0 0;
     }
 }
+
+.abas-texto{
+    background-color: var(--texto-fundo);
+}
     
